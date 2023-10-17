@@ -1,0 +1,17 @@
+.button-save {
+    padding: 2rem;
+    margin: 2rem;
+    background-color: aquamarine;
+    border-radius: 1rem;
+}
+
+.button-search {
+    padding: 2rem;
+    margin: 2rem;
+    background-color: rgb(255, 127, 217);
+    border-radius: 1rem;
+}
+
+.button-save:hover, .button-search:hover {
+    background-color: grey;
+}
